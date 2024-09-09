@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Thanh(bluefish93)</h1>
 <h3 align="center">I'm on a mission to become a Full Stack Web Developer</h3>
 
-- 🌱 I’m currently learning **Node.js, Next.js**
+- 🌱 I’m currently learning **Nest.js, Android native**
 
-- 💬 Ask me about **Java, SpringBoot, ReactJs**
+- 💬 Ask me about **Java, SpringBoot, ReactJs, Nextjs**
 
 - 📫 How to reach me **xuanthanha03@gmail.com**
 
