@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Nest.js, Android native**
 
-- 💬 Ask me about **Java, SpringBoot, ReactJs, Nextjs**
+- 💬 Ask me about **Java, SpringBoot, ReactJs, Nextjs, Express**
 
 - 📫 How to reach me **xuanthanha03@gmail.com**
 
